@@ -1,0 +1,30 @@
+{
+  "name": "sprint-proyect",
+  "version": "1.0.0",
+  "description": "First Sprint Proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/lssuasnabar/sprint-proyect.git"
+  },
+  "keywords": [
+    "restaurante",
+    "API",
+    "Acamica"
+  ],
+  "author": "Leandro Suasnabar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/lssuasnabar/sprint-proyect/issues"
+  },
+  "homepage": "https://gitlab.com/lssuasnabar/sprint-proyect#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
